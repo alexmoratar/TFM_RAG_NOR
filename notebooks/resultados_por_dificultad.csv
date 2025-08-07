@@ -1,0 +1,61 @@
+dificultad,total,aciertos,% acierto,Sistema,K
+,1,0,0.0,BM25,1
+easy,50,24,48.0,BM25,1
+hard,49,21,42.857142857142854,BM25,1
+medium,50,15,30.0,BM25,1
+,1,0,0.0,BM25,3
+easy,50,33,66.0,BM25,3
+hard,49,29,59.183673469387756,BM25,3
+medium,50,31,62.0,BM25,3
+,1,0,0.0,BM25,10
+easy,50,38,76.0,BM25,10
+hard,49,37,75.51020408163265,BM25,10
+medium,50,38,76.0,BM25,10
+,1,0,0.0,MiniLM,1
+easy,50,12,24.0,MiniLM,1
+hard,49,8,16.3265306122449,MiniLM,1
+medium,50,15,30.0,MiniLM,1
+,1,0,0.0,MiniLM,3
+easy,50,19,38.0,MiniLM,3
+hard,49,15,30.612244897959183,MiniLM,3
+medium,50,23,46.0,MiniLM,3
+,1,0,0.0,MiniLM,10
+easy,50,32,64.0,MiniLM,10
+hard,49,27,55.10204081632652,MiniLM,10
+medium,50,36,72.0,MiniLM,10
+,1,0,0.0,MPNet,1
+easy,50,18,36.0,MPNet,1
+hard,49,13,26.53061224489796,MPNet,1
+medium,50,16,32.0,MPNet,1
+,1,0,0.0,MPNet,3
+easy,50,26,52.0,MPNet,3
+hard,49,22,44.89795918367347,MPNet,3
+medium,50,26,52.0,MPNet,3
+,1,0,0.0,MPNet,10
+easy,50,38,76.0,MPNet,10
+hard,49,31,63.26530612244898,MPNet,10
+medium,50,38,76.0,MPNet,10
+,1,0,0.0,Hybrid Linear (a=0.3),1
+easy,50,27,54.0,Hybrid Linear (a=0.3),1
+hard,49,19,38.775510204081634,Hybrid Linear (a=0.3),1
+medium,50,23,46.0,Hybrid Linear (a=0.3),1
+,1,0,0.0,Hybrid Linear (a=0.3),3
+easy,50,37,74.0,Hybrid Linear (a=0.3),3
+hard,49,29,59.183673469387756,Hybrid Linear (a=0.3),3
+medium,50,31,62.0,Hybrid Linear (a=0.3),3
+,1,0,0.0,Hybrid Linear (a=0.3),10
+easy,50,44,88.0,Hybrid Linear (a=0.3),10
+hard,49,45,91.83673469387756,Hybrid Linear (a=0.3),10
+medium,50,43,86.0,Hybrid Linear (a=0.3),10
+,1,0,0.0,Hybrid Log (a=0.3),1
+easy,50,27,54.0,Hybrid Log (a=0.3),1
+hard,49,20,40.816326530612244,Hybrid Log (a=0.3),1
+medium,50,23,46.0,Hybrid Log (a=0.3),1
+,1,0,0.0,Hybrid Log (a=0.3),3
+easy,50,38,76.0,Hybrid Log (a=0.3),3
+hard,49,29,59.183673469387756,Hybrid Log (a=0.3),3
+medium,50,33,66.0,Hybrid Log (a=0.3),3
+,1,0,0.0,Hybrid Log (a=0.3),10
+easy,50,45,90.0,Hybrid Log (a=0.3),10
+hard,49,45,91.83673469387756,Hybrid Log (a=0.3),10
+medium,50,43,86.0,Hybrid Log (a=0.3),10

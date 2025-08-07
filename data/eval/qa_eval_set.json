@@ -1,0 +1,1866 @@
+[
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 262,
+    "paginas": [
+      37
+    ],
+    "pregunta": "What is the main advisory responsibility of the European Artificial Intelligence Board according to the regulation?",
+    "respuesta_esperada": "The Board is responsible for issuing opinions, recommendations, advice, or guidance on matters related to the implementation of the regulation, including technical specifications or existing standards.",
+    "relevant_chunks": [
+      262
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 262,
+    "paginas": [
+      37
+    ],
+    "pregunta": "Which requirement is imposed on providers of high-risk AI systems regarding post-market activities?",
+    "respuesta_esperada": "All providers of high-risk AI systems must have a post-market monitoring system in place to enable corrective actions and improvements based on experience from use.",
+    "relevant_chunks": [
+      262
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 262,
+    "paginas": [
+      37
+    ],
+    "pregunta": "How do the roles and interactions of national competent authorities, national supervisory authorities, and the European Artificial Intelligence Board contribute to the harmonised implementation and enforcement of the regulation across Member States?",
+    "respuesta_esperada": "Member States must designate one or more national competent authorities to supervise the regulation's application and implementation, including a national supervisory authority as the official point of contact. The European Artificial Intelligence Board provides advice, guidance, and recommendations to support harmonised and effective implementation of the regulation across the Union.",
+    "relevant_chunks": [
+      262
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 87,
+    "paginas": [
+      7
+    ],
+    "pregunta": "What are the three components that Trustworthy AI should meet throughout its entire life cycle according to the guidelines?",
+    "respuesta_esperada": "Trustworthy AI should be lawful (complying with laws and regulations), ethical (adhering to ethical principles and values), and robust (both technically and socially).",
+    "relevant_chunks": [
+      87
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 87,
+    "paginas": [
+      7
+    ],
+    "pregunta": "Why does the document emphasize a holistic and systemic approach to achieving Trustworthy AI?",
+    "respuesta_esperada": "Because trust in AI concerns not only the inherent properties of the technology but also the qualities of the socio-technical systems involving AI. Therefore, achieving Trustworthy AI requires considering the trustworthiness of all actors and processes in the system's socio-technical context throughout its entire life cycle.",
+    "relevant_chunks": [
+      87
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 87,
+    "paginas": [
+      7
+    ],
+    "pregunta": "Explain how the concept of Trustworthy AI in these guidelines draws parallels with public trust in other domains, and describe how this informs the approach recommended for AI systems.",
+    "respuesta_esperada": "The guidelines draw an analogy between trust in AI and trust in fields like aviation, nuclear power, or food safety, arguing that trust is not just about system components but the broader socio-technical context. This perspective informs the recommendation for a systemic, holistic approach to ensure trustworthiness in AI, covering all actors and processes throughout the AI system's life cycle.",
+    "relevant_chunks": [
+      87
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 40,
+    "paginas": [],
+    "pregunta": "What are some example questions that help determine the transparency and explainability of an AI system according to the OECD framework?",
+    "respuesta_esperada": "Examples include: Is it clear what the objectives of the AI system are? Does the system provide meaningful information for understanding its outputs? Can all outputs be explained? Can the determinant data or knowledge used for decisions be identified? Can the consistency and integrity of outcomes be verified?",
+    "relevant_chunks": [
+      40
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 40,
+    "paginas": [],
+    "pregunta": "According to the OECD framework, what aspects should policy makers consider to assess the safety, security, and robustness of AI systems?",
+    "respuesta_esperada": "Policy makers should consider if safety metrics exist for the use case, how safety is tested during development, what adversarial evaluation measures are in place, if the system is sensitive to data variations, and if there are processes to validate, verify, and trace AI system outcomes and decisions.",
+    "relevant_chunks": [
+      40
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 40,
+    "paginas": [],
+    "pregunta": "Describe how the OECD framework recommends assessing both the explainability and safety of an AI system throughout its lifecycle, and discuss why these factors are important for responsible AI deployment.",
+    "respuesta_esperada": "The OECD framework suggests assessing explainability through questions about system objectives, transparency of outputs, traceability, and consistency of outcomes, while safety assessment involves safety metrics, adversarial testing, sensitivity to data variations, and validation/verification measures. These factors are important to ensure that AI systems are understandable, trustworthy, safe, and robust throughout their lifecycle, supporting responsible AI deployment.",
+    "relevant_chunks": [
+      40
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 85,
+    "paginas": [
+      6
+    ],
+    "pregunta": "What are the three pillars of the European Commission's vision for artificial intelligence described in the introduction?",
+    "respuesta_esperada": "The three pillars are: (i) increasing public and private investments in AI, (ii) preparing for socio-economic changes, and (iii) ensuring an appropriate ethical and legal framework to strengthen European values.",
+    "relevant_chunks": [
+      85
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 85,
+    "paginas": [
+      6
+    ],
+    "pregunta": "What was the mandate of the High-Level Expert Group on Artificial Intelligence (AI HLEG) established by the European Commission?",
+    "respuesta_esperada": "The AI HLEG was mandated to draft two deliverables: the AI Ethics Guidelines and Policy and Investment Recommendations.",
+    "relevant_chunks": [
+      85
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 85,
+    "paginas": [
+      6
+    ],
+    "pregunta": "Discuss how the AI Ethics Guidelines relate to broader societal goals, such as the United Nations Sustainable Development Goals, and the potential impact of AI on human flourishing according to the document.",
+    "respuesta_esperada": "The guidelines state that AI can facilitate achievement of the UN Sustainable Development Goals, including promoting gender balance, tackling climate change, rationalizing resource use, and enhancing health and mobility. The document emphasizes that AI is a means to increase human flourishing and societal well-being, supporting progress, innovation, and the common good.",
+    "relevant_chunks": [
+      85
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 74,
+    "paginas": [
+      64
+    ],
+    "pregunta": "What is GPT-3, and what kind of tasks can it perform according to the OECD framework?",
+    "respuesta_esperada": "GPT-3 is a large, pre-trained language model capable of searching across, generating, and manipulating strings of text. It can be used for various tasks, such as text classification, generating emails, and creative writing, and can theoretically deploy applications in any economic sector.",
+    "relevant_chunks": [
+      74
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 74,
+    "paginas": [
+      64
+    ],
+    "pregunta": "According to the OECD framework, why should the application context of GPT-3 be considered, and how might different use cases require different considerations?",
+    "respuesta_esperada": "The application context should be considered because GPT-3 is a general-purpose model, and different use cases, such as creative writing versus providing medical advice, have different socio-economic implications and risks, requiring different approaches in their deployment.",
+    "relevant_chunks": [
+      74
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 74,
+    "paginas": [
+      64
+    ],
+    "pregunta": "Based on the OECD classification, discuss the key factors related to user competency, impacted stakeholders, and user rights for applications built with GPT-3.",
+    "respuesta_esperada": "The OECD classification notes that users of GPT-3 applications may be amateurs, impacted stakeholders include workers and consumers, and users may have optionality, such as the ability to opt out or challenge/correct the system's outputs. These factors are important for evaluating the system's impact and the need for appropriate redress and human oversight.",
+    "relevant_chunks": [
+      74
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 110,
+    "paginas": [
+      19
+    ],
+    "pregunta": "What is the purpose of having a fallback plan in AI systems, according to the guidelines?",
+    "respuesta_esperada": "AI systems should have safeguards that enable a fallback plan in case of problems to prevent harm, ensure the system does what it is supposed to do, and minimize unintended consequences and errors.",
+    "relevant_chunks": [
+      110
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 110,
+    "paginas": [
+      19
+    ],
+    "pregunta": "Why do the guidelines recommend convergence between the AI community and the security community, and what benefits could this bring?",
+    "respuesta_esperada": "Convergence is recommended to develop a virtuous circle between understanding attacks, developing protections, and improving evaluation methodologies. This collaboration can help create cross-border safety and security norms, foster mutual trust, and promote international cooperation.",
+    "relevant_chunks": [
+      110
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 110,
+    "paginas": [
+      19
+    ],
+    "pregunta": "Discuss how the guidelines address the relationship between an AI system's risk level and the required safety measures, and explain what proactive steps are encouraged for high-risk AI development.",
+    "respuesta_esperada": "The guidelines state that the required level of safety measures depends on the magnitude of risk posed by the AI system, which relates to its capabilities. For high-risk systems, safety measures should be developed and tested proactively to minimize potential risks, unintended consequences, and errors.",
+    "relevant_chunks": [
+      110
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 220,
+    "paginas": [],
+    "pregunta": "What are the two main categories of high-risk AI systems identified in the EU AI Act?",
+    "respuesta_esperada": "The two main categories are: (1) AI systems intended to be used as a safety component of products subject to third party ex-ante conformity assessment, and (2) stand-alone AI systems with mainly fundamental rights implications that are explicitly listed in Annex III.",
+    "relevant_chunks": [
+      220
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 220,
+    "paginas": [],
+    "pregunta": "How can the list of high-risk AI systems in Annex III of the EU AI Act be adjusted to include new uses or applications?",
+    "respuesta_esperada": "The Commission may expand the list of high-risk AI systems by applying a set of criteria and risk assessment methodology to emerging uses and applications within certain pre-defined areas.",
+    "relevant_chunks": [
+      220
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 220,
+    "paginas": [],
+    "pregunta": "Explain how the requirements for high-risk AI systems in the EU AI Act were developed and how they ensure compatibility with international standards.",
+    "respuesta_esperada": "The requirements are based on state-of-the-art practices, the Ethics Guidelines of the HLEG, and input from over 350 organizations. They are consistent with international recommendations and principles, ensuring compatibility with frameworks adopted by the EU’s international trade partners.",
+    "relevant_chunks": [
+      220
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 306,
+    "paginas": [
+      66
+    ],
+    "pregunta": "When must a new conformity assessment be conducted for high-risk AI systems under the EU AI Act?",
+    "respuesta_esperada": "A new conformity assessment must be conducted whenever high-risk AI systems are substantially modified, regardless of whether the modified system is intended to be further distributed or continues to be used by the current user.",
+    "relevant_chunks": [
+      306
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 306,
+    "paginas": [
+      66
+    ],
+    "pregunta": "According to the EU AI Act, what conditions allow a manufacturer to opt out from a third-party conformity assessment for high-risk AI systems?",
+    "respuesta_esperada": "A manufacturer can opt out from a third-party conformity assessment only if all harmonised standards covering the relevant requirements have been applied, including those for high-risk AI systems as set out in Chapter 2, and, where applicable, common specifications referred to in Article 41.",
+    "relevant_chunks": [
+      306
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 306,
+    "paginas": [
+      66
+    ],
+    "pregunta": "Explain the role of notified bodies in the conformity assessment of high-risk AI systems under the EU AI Act and the requirements they must meet.",
+    "respuesta_esperada": "Notified bodies are entitled to control the conformity of high-risk AI systems with the requirements set in Chapter 2, provided they have been assessed in line with Article 33(4), (9), and (10) during the notification procedure under applicable legal acts.",
+    "relevant_chunks": [
+      306
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 262,
+    "paginas": [
+      37
+    ],
+    "pregunta": "What is the main advisory function of the European Artificial Intelligence Board according to the EU AI Act?",
+    "respuesta_esperada": "The Board is responsible for issuing opinions, recommendations, advice, or guidance on matters related to the implementation of the Regulation, including technical specifications or existing standards.",
+    "relevant_chunks": [
+      262
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 262,
+    "paginas": [
+      37
+    ],
+    "pregunta": "What is the role of national supervisory authorities in the enforcement of the EU AI Act?",
+    "respuesta_esperada": "Each Member State must designate one or more national competent authorities to supervise the application and implementation of the Regulation, with one designated as the national supervisory authority to act as the official point of contact at Member State and Union levels.",
+    "relevant_chunks": [
+      262
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 262,
+    "paginas": [
+      37
+    ],
+    "pregunta": "Explain how post-market monitoring is intended to support the improvement and safety of high-risk AI systems under the EU AI Act.",
+    "respuesta_esperada": "All providers of high-risk AI systems are required to have a post-market monitoring system in place. This enables them to take corrective actions and improve their systems and development processes based on the experience from the use of high-risk AI systems.",
+    "relevant_chunks": [
+      262
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 255,
+    "paginas": [
+      33
+    ],
+    "pregunta": "What specific responsibilities do users of high-risk AI systems have under the EU AI Act?",
+    "respuesta_esperada": "Users of high-risk AI systems must use the systems in accordance with the instructions of use, monitor the functioning of the systems, and keep records as appropriate.",
+    "relevant_chunks": [
+      255
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 255,
+    "paginas": [
+      33
+    ],
+    "pregunta": "Who is considered the 'user' of an AI system according to the EU AI Act?",
+    "respuesta_esperada": "The user is defined as the natural or legal person, public authority, agency, or other body under whose authority the AI system is operated, except when the use is for a personal non-professional activity.",
+    "relevant_chunks": [
+      255
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 255,
+    "paginas": [
+      33
+    ],
+    "pregunta": "Discuss why the EU AI Act requires specific obligations for users, importers, and distributors of high-risk AI systems, and how this relates to existing market surveillance frameworks.",
+    "respuesta_esperada": "The Act requires specific obligations for these actors to ensure legal certainty, facilitate regulatory compliance, and address the risks to safety and fundamental rights associated with AI systems. This approach is consistent with the principles of the New Legislative Framework and existing regulations on market surveillance and product compliance.",
+    "relevant_chunks": [
+      255
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 332,
+    "paginas": [
+      84
+    ],
+    "pregunta": "What factors must be considered when deciding on the amount of an administrative fine for an infringement under the EU AI Act?",
+    "respuesta_esperada": "Factors include the nature, gravity and duration of the infringement and its consequences; whether administrative fines have already been applied by other market surveillance authorities for the same infringement; and the size and market share of the operator.",
+    "relevant_chunks": [
+      332
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 332,
+    "paginas": [
+      84
+    ],
+    "pregunta": "Can Member States impose administrative fines on public authorities under the EU AI Act, and how is this determined?",
+    "respuesta_esperada": "Each Member State must lay down rules on whether and to what extent administrative fines may be imposed on public authorities and bodies established in that Member State.",
+    "relevant_chunks": [
+      332
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 332,
+    "paginas": [
+      84
+    ],
+    "pregunta": "Explain the role of the European Data Protection Supervisor in imposing administrative fines on Union institutions, agencies, and bodies according to the EU AI Act.",
+    "respuesta_esperada": "The European Data Protection Supervisor may impose administrative fines on Union institutions, agencies, and bodies. When deciding on the fine, all relevant circumstances must be considered, including the nature, gravity and duration of the infringement, and the cooperation with the Supervisor to remedy and mitigate the effects of the infringement.",
+    "relevant_chunks": [
+      332
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 221,
+    "paginas": [
+      15
+    ],
+    "pregunta": "What flexibility is provided to AI system providers for meeting the requirements of the EU AI Act?",
+    "respuesta_esperada": "Providers can choose the way to meet requirements, considering the state-of-the-art and technological and scientific progress in the field.",
+    "relevant_chunks": [
+      221
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 221,
+    "paginas": [
+      15
+    ],
+    "pregunta": "What role do notified bodies play in the conformity assessment of high-risk AI systems under the EU AI Act?",
+    "respuesta_esperada": "Notified bodies are involved as independent third parties in conformity assessment procedures to help ensure compliance with the regulation's requirements.",
+    "relevant_chunks": [
+      221
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 221,
+    "paginas": [
+      15
+    ],
+    "pregunta": "Explain how compliance and enforcement mechanisms differ between high-risk AI systems used as safety components of regulated products and stand-alone high-risk AI systems under the EU AI Act.",
+    "respuesta_esperada": "AI systems used as safety components are subject to the same ex-ante and ex-post compliance and enforcement mechanisms as the regulated products they are part of, but also need to meet the AI regulation's requirements. Stand-alone high-risk AI systems in Annex III follow a new system based on internal control checks, except remote biometric identification systems, which require third-party conformity assessment.",
+    "relevant_chunks": [
+      221
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 229,
+    "paginas": [
+      20
+    ],
+    "pregunta": "How is the notion of 'biometric data' defined and interpreted in the context of the EU AI Act?",
+    "respuesta_esperada": "The notion of biometric data is defined in line with and interpreted consistently with Article 4(14) of Regulation (EU) 2016/679, Article 3(18) of Regulation (EU) 2018/1725, and Article 3(13) of Directive (EU) 2016/680.",
+    "relevant_chunks": [
+      229
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 229,
+    "paginas": [
+      20
+    ],
+    "pregunta": "What is a 'remote biometric identification system' according to the EU AI Act?",
+    "respuesta_esperada": "A remote biometric identification system is an AI system intended for the identification of natural persons at a distance through comparison of a person's biometric data with a reference database, without prior knowledge of whether the targeted person will be present and regardless of technology, processes, or data types used.",
+    "relevant_chunks": [
+      229
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 229,
+    "paginas": [
+      20
+    ],
+    "pregunta": "Explain the distinction made in the EU AI Act between real-time and post remote biometric identification systems and why this distinction matters.",
+    "respuesta_esperada": "The distinction is based on timing: in real-time systems, data capture, comparison, and identification all happen instantaneously or with no significant delay. This distinction is important to prevent circumvention of the regulation's rules on real-time use by introducing minor delays.",
+    "relevant_chunks": [
+      229
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 11,
+    "paginas": [
+      24
+    ],
+    "pregunta": "According to the OECD AI classification framework, why is it important to regularly review the framework, and what factors may necessitate such a review?",
+    "respuesta_esperada": "It is important to regularly review the framework because AI systems and their contexts evolve due to social, technical, and legal developments. Regular review ensures the framework remains relevant and effective.",
+    "relevant_chunks": [
+      11
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 11,
+    "paginas": [
+      24
+    ],
+    "pregunta": "How does the OECD framework address the interaction between different dimensions, such as 'Task & Output' and 'Data & Input'?",
+    "respuesta_esperada": "The framework treats dimensions as independent but acknowledges that they affect each other. For example, the 'Task & Output' dimension impacts how data is collected and how the AI Model is formulated.",
+    "relevant_chunks": [
+      11
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 11,
+    "paginas": [
+      24
+    ],
+    "pregunta": "Discuss the concept of generality in AI systems as described in the OECD classification framework, including the indicators that can be used to assess it.",
+    "respuesta_esperada": "Generality refers to an AI system's ability to perform several tasks, including those it was not initially trained for. Indicators of generality include scale and model development/maintenance, among other criteria that, when combined, can provide an objective measure.",
+    "relevant_chunks": [
+      11
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 297,
+    "paginas": [
+      60
+    ],
+    "pregunta": "What must users of high-risk AI systems do to comply with data protection regulations according to the EU AI Act?",
+    "respuesta_esperada": "Users must use the information provided under Article 13 to carry out a data protection impact assessment as required under Article 35 of Regulation (EU) 2016/679 or Article 27 of Directive (EU) 2016/680, where applicable.",
+    "relevant_chunks": [
+      297
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 297,
+    "paginas": [
+      60
+    ],
+    "pregunta": "What is the role of notifying authorities in the conformity assessment process for high-risk AI systems under the EU AI Act?",
+    "respuesta_esperada": "Notifying authorities are responsible for setting up and carrying out procedures for the assessment, designation, notification, and monitoring of conformity assessment bodies.",
+    "relevant_chunks": [
+      297
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 297,
+    "paginas": [
+      60
+    ],
+    "pregunta": "Describe the organizational requirements for notifying authorities to ensure objectivity and impartiality in the conformity assessment of high-risk AI systems under the EU AI Act.",
+    "respuesta_esperada": "Notifying authorities must avoid conflicts of interest with conformity assessment bodies, ensure objectivity and impartiality, separate the personnel making notification decisions from those performing assessments, avoid offering conformity or consultancy services, safeguard confidentiality, and have sufficient competent personnel.",
+    "relevant_chunks": [
+      297
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 340,
+    "paginas": [
+      90
+    ],
+    "pregunta": "When does the EU AI Act become directly applicable in all Member States?",
+    "respuesta_esperada": "The Regulation is binding in its entirety and directly applicable in all Member States from its entry into force, with certain provisions applying after specified periods (e.g., some chapters after three or twelve months).",
+    "relevant_chunks": [
+      340
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 340,
+    "paginas": [
+      90
+    ],
+    "pregunta": "What are some of the implementation milestones or timelines specified in the EU AI Act for its provisions to take effect?",
+    "respuesta_esperada": "Some provisions, such as Title III, Chapter 4 and Title VI, apply from three months following entry into force, while Article 71 applies from twelve months following entry into force.",
+    "relevant_chunks": [
+      340
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 340,
+    "paginas": [
+      90
+    ],
+    "pregunta": "According to the legislative financial statement, what are some general and specific objectives and management measures required for implementing the EU AI Act?",
+    "respuesta_esperada": "Objectives include achieving policy goals, expected results, and performance indicators. Management measures cover monitoring and reporting rules, management and control systems, funding mechanisms, payment modalities, risk management, and internal controls.",
+    "relevant_chunks": [
+      340
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 115,
+    "paginas": [
+      21
+    ],
+    "pregunta": "Why is accessibility important in the development of AI systems according to the AI HLEG Ethics Guidelines?",
+    "respuesta_esperada": "Accessibility is important to ensure equitable access and active participation for all people, including those with disabilities, by considering Universal Design principles and relevant accessibility standards.",
+    "relevant_chunks": [
+      115
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 115,
+    "paginas": [
+      21
+    ],
+    "pregunta": "How do the AI HLEG Ethics Guidelines recommend involving stakeholders in the AI system lifecycle?",
+    "respuesta_esperada": "The guidelines advise consulting stakeholders who may be directly or indirectly affected throughout the AI system's lifecycle, soliciting regular feedback even after deployment, and establishing mechanisms for long-term participation.",
+    "relevant_chunks": [
+      115
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 115,
+    "paginas": [
+      21
+    ],
+    "pregunta": "Discuss how the principles of fairness and prevention of harm in the AI HLEG Ethics Guidelines relate to societal and environmental well-being.",
+    "respuesta_esperada": "The guidelines suggest that society, other sentient beings, and the environment should be considered as stakeholders, encouraging sustainability, ecological responsibility, and research into AI solutions for global concerns such as the Sustainable Development Goals.",
+    "relevant_chunks": [
+      115
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 309,
+    "paginas": [
+      68
+    ],
+    "pregunta": "Under what conditions can a market surveillance authority authorize the placing on the market of a high-risk AI system without prior conformity assessment according to the EU AI Act?",
+    "respuesta_esperada": "A market surveillance authority may authorize the placing on the market or use of a high-risk AI system for exceptional reasons of public security, protection of life and health, environmental protection, or the protection of key assets. This authorization is temporary while conformity assessment procedures are carried out.",
+    "relevant_chunks": [
+      309
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 309,
+    "paginas": [
+      68
+    ],
+    "pregunta": "What procedural steps must be followed when a market surveillance authority issues an exceptional authorization for a high-risk AI system?",
+    "respuesta_esperada": "The authority must ensure the system complies with Chapter 2 requirements, inform the Commission and other Member States, and wait 15 calendar days for possible objections. If no objections are raised, the authorization is deemed justified.",
+    "relevant_chunks": [
+      309
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 309,
+    "paginas": [
+      68
+    ],
+    "pregunta": "Explain the possible outcomes if a Member State or the Commission objects to an exceptional authorization for a high-risk AI system granted by another Member State under the EU AI Act.",
+    "respuesta_esperada": "If objections are raised within 15 days by a Member State or the Commission, or if the Commission finds the authorization contrary to Union law, the authorization may be reconsidered or revoked according to the procedures set out in the Act.",
+    "relevant_chunks": [
+      309
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 165,
+    "paginas": [
+      16
+    ],
+    "pregunta": "What is the purpose of creating Current and Target Profiles in the NIST Privacy Framework?",
+    "respuesta_esperada": "The purpose is to assess which privacy outcomes are currently achieved (Current Profile) and to define desired privacy outcomes (Target Profile), helping organizations identify gaps and set an action plan to improve their privacy program.",
+    "relevant_chunks": [
+      165
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 165,
+    "paginas": [
+      16
+    ],
+    "pregunta": "How does an organization determine which outcomes belong in its Target Profile in the NIST Privacy Framework?",
+    "respuesta_esperada": "An organization determines its Target Profile by assessing desired privacy outcomes, considering organizational values, risk tolerance, privacy risk assessments, and external stakeholder requirements.",
+    "relevant_chunks": [
+      165
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 165,
+    "paginas": [
+      16
+    ],
+    "pregunta": "Explain the benefits of developing multiple Profiles for different business lines or processes in the NIST Privacy Framework.",
+    "respuesta_esperada": "Developing multiple Profiles allows organizations to tailor privacy practices to the specific needs and risk tolerances of different business lines or processes, ensuring more effective and relevant privacy management.",
+    "relevant_chunks": [
+      165
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 223,
+    "paginas": [
+      16
+    ],
+    "pregunta": "What obligation exists for AI-generated or manipulated content that closely resembles authentic content under the EU AI Act?",
+    "respuesta_esperada": "There is an obligation to disclose that the content is generated through automated means, except for legitimate purposes such as law enforcement or freedom of expression.",
+    "relevant_chunks": [
+      223
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 223,
+    "paginas": [
+      16
+    ],
+    "pregunta": "What is an AI regulatory sandbox, and how does the EU AI Act support innovation through such measures?",
+    "respuesta_esperada": "An AI regulatory sandbox is a controlled environment where innovative technologies can be tested for a limited time with oversight from competent authorities. The Act encourages national authorities to set up sandboxes and provides a governance framework to foster innovation, reduce regulatory burden on SMEs and start-ups, and ensure safe experimentation.",
+    "relevant_chunks": [
+      223
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 223,
+    "paginas": [
+      16
+    ],
+    "pregunta": "Explain the governance structure for AI at Union and national level established by the EU AI Act and the role of the European Artificial Intelligence Board.",
+    "respuesta_esperada": "At Union level, the European Artificial Intelligence Board—composed of Member State and Commission representatives—facilitates cooperation, harmonised implementation, and shares best practices. At national level, each Member State designates one or more national competent authorities, including a national supervisory authority, to supervise application and implementation.",
+    "relevant_chunks": [
+      223
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 223,
+    "paginas": [
+      16
+    ],
+    "pregunta": "What obligation exists for AI-generated or manipulated content that closely resembles authentic content under the EU AI Act?",
+    "respuesta_esperada": "There is an obligation to disclose that the content is generated through automated means, except for legitimate purposes such as law enforcement or freedom of expression.",
+    "relevant_chunks": [
+      223
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 223,
+    "paginas": [
+      16
+    ],
+    "pregunta": "What is an AI regulatory sandbox, and how does the EU AI Act support innovation through such measures?",
+    "respuesta_esperada": "An AI regulatory sandbox is a controlled environment where innovative technologies can be tested for a limited time with oversight from competent authorities. The Act encourages national authorities to set up sandboxes and provides a governance framework to foster innovation, reduce regulatory burden on SMEs and start-ups, and ensure safe experimentation.",
+    "relevant_chunks": [
+      223
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 223,
+    "paginas": [
+      16
+    ],
+    "pregunta": "Explain the governance structure for AI at Union and national level established by the EU AI Act and the role of the European Artificial Intelligence Board.",
+    "respuesta_esperada": "At Union level, the European Artificial Intelligence Board—composed of Member State and Commission representatives—facilitates cooperation, harmonised implementation, and shares best practices. At national level, each Member State designates one or more national competent authorities, including a national supervisory authority, to supervise application and implementation.",
+    "relevant_chunks": [
+      223
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 321,
+    "paginas": [
+      77
+    ],
+    "pregunta": "What is the deadline for providers of high-risk AI systems to notify market surveillance authorities of a serious incident or malfunctioning that could impact fundamental rights?",
+    "respuesta_esperada": "Providers must notify the relevant authorities immediately after establishing a causal link or reasonable likelihood, and in any event no later than 15 days after becoming aware of the serious incident or malfunctioning.",
+    "relevant_chunks": [
+      321
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 321,
+    "paginas": [
+      77
+    ],
+    "pregunta": "What is the specific notification obligation for high-risk AI systems used by credit institutions or as safety components of devices, according to the EU AI Act?",
+    "respuesta_esperada": "For high-risk AI systems provided by credit institutions or as safety components of devices regulated by the relevant EU regulations, the notification requirement is limited to incidents that breach obligations under Union law intended to protect fundamental rights.",
+    "relevant_chunks": [
+      321
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 321,
+    "paginas": [
+      77
+    ],
+    "pregunta": "Explain the process and guidance for market surveillance authorities when notified about breaches related to fundamental rights under the EU AI Act.",
+    "respuesta_esperada": "When notified of such breaches, the market surveillance authority must inform the relevant national public authorities or bodies. The Commission will develop dedicated guidance for compliance with notification obligations, to be issued within 12 months of the Regulation's entry into force.",
+    "relevant_chunks": [
+      321
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 180,
+    "paginas": [
+      30
+    ],
+    "pregunta": "What mechanisms should organizations establish to increase awareness about data processing practices and associated privacy risks according to the NIST Privacy Framework?",
+    "respuesta_esperada": "Organizations should establish mechanisms like notices and reports to communicate data processing purposes, practices, privacy risks, and available options for individuals. They should also enable feedback, maintain visibility and records, notify affected parties of breaches, and provide mitigation mechanisms.",
+    "relevant_chunks": [
+      180
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 180,
+    "paginas": [
+      30
+    ],
+    "pregunta": "How does the NIST Privacy Framework recommend organizations maintain and communicate about data disclosures, corrections, and provenance?",
+    "respuesta_esperada": "The framework recommends maintaining accessible records of data disclosures and sharing, enabling communication of corrections or deletions to relevant parties, and maintaining data provenance and lineage for review or transmission.",
+    "relevant_chunks": [
+      180
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 180,
+    "paginas": [
+      30
+    ],
+    "pregunta": "Explain how the NIST Privacy Framework's Data Processing Awareness and Protection categories contribute to an organization's privacy risk management strategy.",
+    "respuesta_esperada": "The Data Processing Awareness category ensures reliable knowledge and communication about data practices and risks, while the Protection category focuses on maintaining and improving data protection policies, processes, and controls. Together, they increase predictability, enable feedback, support mitigation, and strengthen privacy safeguards as part of a comprehensive risk management strategy.",
+    "relevant_chunks": [
+      180
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 115,
+    "paginas": [
+      21
+    ],
+    "pregunta": "Why should AI systems consider Universal Design principles and accessibility standards according to the AI HLEG Ethics Guidelines?",
+    "respuesta_esperada": "To ensure equitable access and active participation for all people, including those with disabilities, by addressing the widest possible range of users.",
+    "relevant_chunks": [
+      115
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 115,
+    "paginas": [
+      21
+    ],
+    "pregunta": "How does the AI HLEG Ethics Guidelines recommend involving stakeholders in the development and deployment of AI systems?",
+    "respuesta_esperada": "By consulting stakeholders who may be affected throughout the system's lifecycle, soliciting regular feedback after deployment, and establishing mechanisms for long-term participation, such as worker consultation and participation.",
+    "relevant_chunks": [
+      115
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 115,
+    "paginas": [
+      21
+    ],
+    "pregunta": "Discuss how the principles of fairness and prevention of harm in the AI HLEG Ethics Guidelines extend to societal and environmental well-being.",
+    "respuesta_esperada": "The guidelines argue that society, other sentient beings, and the environment should be considered stakeholders, encouraging sustainability, ecological responsibility, and research into AI solutions for global concerns like the Sustainable Development Goals.",
+    "relevant_chunks": [
+      115
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 61,
+    "paginas": [],
+    "pregunta": "What are some key dimensions and criteria used in the OECD AI system classification survey according to Table 6?",
+    "respuesta_esperada": "Key dimensions and criteria include users' AI competency, impacted stakeholders, optionality, risks to human rights and democratic values, effects on well-being, potential for labour displacement, business model, impact on critical activities, technical maturity, data detection and collection, data provenance, data dynamics, rights, identifiability of personal data, data structure, and data format.",
+    "relevant_chunks": [
+      61
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 61,
+    "paginas": [],
+    "pregunta": "According to Table 6 of the OECD AI system classification survey, which criterion had the highest level of 'uncertain or blank' responses?",
+    "respuesta_esperada": "'Business model' had the highest level of uncertain or blank responses at 22%.",
+    "relevant_chunks": [
+      61
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 61,
+    "paginas": [],
+    "pregunta": "Explain how the consistency of survey responses varied across different AI system classification criteria in Table 6 of the OECD framework and discuss its implications.",
+    "respuesta_esperada": "The average consistency of survey responses varied by criterion, with some like 'users' AI competency' and 'identifiability of personal data' showing high consistency, while others like 'dynamic nature of the data' or 'structure of the data' showed lower consistency. This variation suggests that some criteria are clearer and easier to assess objectively than others, which may impact the reliability and comparability of AI system classification.",
+    "relevant_chunks": [
+      61
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 275,
+    "paginas": [
+      45
+    ],
+    "pregunta": "Under what circumstances is the use of real-time remote biometric identification systems in publicly accessible spaces for law enforcement allowed by the EU AI Act?",
+    "respuesta_esperada": "The use is allowed only if strictly necessary for: (i) targeted search for specific potential victims of crime (including missing children); (ii) prevention of a specific, substantial, and imminent threat to life, safety, or terrorist attack; or (iii) detection, localization, identification, or prosecution of a perpetrator or suspect of a serious criminal offence punishable by at least three years in the relevant Member State.",
+    "relevant_chunks": [
+      275
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 275,
+    "paginas": [
+      45
+    ],
+    "pregunta": "What elements must be considered when using real-time remote biometric identification systems in public spaces for law enforcement under the EU AI Act?",
+    "respuesta_esperada": "Considerations include the nature of the situation (seriousness, probability, and scale of harm if not used) and the consequences for rights and freedoms of all persons concerned (seriousness, probability, and scale of those consequences).",
+    "relevant_chunks": [
+      275
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 275,
+    "paginas": [
+      45
+    ],
+    "pregunta": "Discuss the legal safeguards and proportionality considerations required for deploying real-time remote biometric identification systems for law enforcement according to the EU AI Act.",
+    "respuesta_esperada": "The use of such systems must be strictly necessary and limited to specific objectives, with consideration for the seriousness and scale of both the potential harm prevented and the impact on rights and freedoms. The decision must take into account proportionality and legal safeguards to balance public security with fundamental rights.",
+    "relevant_chunks": [
+      275
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 61,
+    "paginas": [],
+    "pregunta": "What are some key dimensions and criteria included in the OECD AI system classification survey's Table 6?",
+    "respuesta_esperada": "Key dimensions and criteria include users' AI competency, impacted stakeholders, optionality, risks to human rights and democratic values, potential effects on well-being, labour displacement, business model, impact on critical activities, technical maturity, data detection and collection, data provenance, dynamic nature of the data, rights, identifiability of personal data, data structure, and data format.",
+    "relevant_chunks": [
+      61
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 61,
+    "paginas": [],
+    "pregunta": "Which criterion in Table 6 of the OECD AI system classification survey had the highest proportion of uncertain or blank responses?",
+    "respuesta_esperada": "'Business model' had the highest level of uncertain or blank responses at 22%.",
+    "relevant_chunks": [
+      61
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 61,
+    "paginas": [],
+    "pregunta": "Discuss how the consistency of survey responses across AI system classification criteria in the OECD framework varies and why this might be significant.",
+    "respuesta_esperada": "Survey response consistency varied across criteria, with some (like 'users' AI competency' and 'identifiability of personal data') showing high consistency and others (like 'structure of the data' and 'dynamic nature of the data') showing lower consistency. This variation indicates that some criteria are more objective or easier to assess than others, affecting the reliability and comparability of system classifications.",
+    "relevant_chunks": [
+      61
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 149,
+    "paginas": [
+      5
+    ],
+    "pregunta": "Why is managing privacy risk particularly challenging according to the NIST Privacy Framework introduction?",
+    "respuesta_esperada": "Managing privacy risk is challenging because privacy is a broad and complex concept encompassing human autonomy and dignity, which are influenced by cultural and individual differences. The means to achieve privacy can vary and are not suited to one-size-fits-all solutions, making it hard to communicate risks and solutions clearly.",
+    "relevant_chunks": [
+      149
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 149,
+    "paginas": [
+      5
+    ],
+    "pregunta": "What is the main goal of the NIST Privacy Framework as described in the introduction?",
+    "respuesta_esperada": "The main goal is to provide a common language and practical tool for organizations of all sizes and sectors to manage privacy risks effectively, regardless of technology, law, or jurisdiction.",
+    "relevant_chunks": [
+      149
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 149,
+    "paginas": [
+      5
+    ],
+    "pregunta": "Discuss how the NIST Privacy Framework addresses the complexity and variability of privacy needs across organizations and cultures.",
+    "respuesta_esperada": "The Framework is designed to be voluntary, flexible, and adaptable to any organization’s role, size, technology, or legal environment. It recognizes that privacy values and requirements vary by culture and individual, so it provides a flexible, risk-based approach for managing privacy in diverse contexts.",
+    "relevant_chunks": [
+      149
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 44,
+    "paginas": [
+      46
+    ],
+    "pregunta": "How can model ensembles impact the accuracy and complexity of AI systems according to the OECD AI classification framework?",
+    "respuesta_esperada": "Model ensembles can improve accuracy by combining several models to work together on a task, but they also increase system complexity and the probability of failures, especially if uncertainty is not managed properly.",
+    "relevant_chunks": [
+      44
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 44,
+    "paginas": [
+      46
+    ],
+    "pregunta": "What are some potential risks associated with using multiple AI models or multi-tasking systems, as discussed in the OECD framework?",
+    "respuesta_esperada": "Using multiple models or multi-tasking systems can lead to increased complexity and a higher likelihood of failures. Errors can propagate and multiply across models, particularly if uncertainty is not properly addressed in downstream models.",
+    "relevant_chunks": [
+      44
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 44,
+    "paginas": [
+      46
+    ],
+    "pregunta": "Explain the role of objectives and performance measures in the model-building process of AI systems as described in the OECD framework.",
+    "respuesta_esperada": "",
+    "relevant_chunks": [],
+    "dificultad": ""
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 175,
+    "paginas": [
+      25
+    ],
+    "pregunta": "According to the NIST Privacy Framework, what information should organizations inventory to manage data processing effectively?",
+    "respuesta_esperada": "Organizations should inventory systems, products, or services that process data, categories of individuals whose data is processed, data actions, purposes for data actions, data elements, processing environments, and map data processing including roles and interactions.",
+    "relevant_chunks": [
+      175
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 175,
+    "paginas": [
+      25
+    ],
+    "pregunta": "How does the NIST Privacy Framework recommend mapping data processing activities, and why is this important?",
+    "respuesta_esperada": "The framework recommends mapping data actions and associated data elements for systems and services, including roles of component owners/operators and interactions with individuals or third parties. This mapping is important for transparency, accountability, and informed privacy risk management.",
+    "relevant_chunks": [
+      175
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 175,
+    "paginas": [
+      25
+    ],
+    "pregunta": "Describe the steps in privacy risk assessment outlined by the NIST Privacy Framework and explain how organizations should use them.",
+    "respuesta_esperada": "Organizations should identify contextual factors (like demographics, data sensitivity), evaluate data analytics for bias, identify potential problematic data actions and associated problems, determine and prioritize risk based on likelihood and impact, and identify and implement risk responses.",
+    "relevant_chunks": [
+      175
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 123,
+    "paginas": [
+      25
+    ],
+    "pregunta": "How can standards contribute to promoting ethical conduct in AI development and use according to the AI HLEG Ethics Guidelines?",
+    "respuesta_esperada": "Standards for design, manufacturing, and business practices function as a quality management system, helping users, organizations, and governments recognize and encourage ethical conduct and fundamental rights through purchasing decisions and compliance.",
+    "relevant_chunks": [
+      123
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 123,
+    "paginas": [
+      25
+    ],
+    "pregunta": "What is the role of certification in ensuring transparency, accountability, and fairness in AI systems according to the guidelines?",
+    "respuesta_esperada": "Certification can attest that an AI system is transparent, accountable, and fair by applying relevant standards. However, certification should be complemented by accountability frameworks, disclaimers, and mechanisms for review and redress, as it cannot replace responsibility.",
+    "relevant_chunks": [
+      123
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 123,
+    "paginas": [
+      25
+    ],
+    "pregunta": "Discuss the recommended governance frameworks for ensuring accountability in the ethical use of AI systems as outlined by the AI HLEG Ethics Guidelines.",
+    "respuesta_esperada": "The guidelines recommend organizations establish both internal and external governance frameworks to ensure accountability for ethical dimensions of AI. This can include appointing an ethics officer or panel, or setting up ethics boards to oversee AI decisions and their ethical impacts.",
+    "relevant_chunks": [
+      123
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 45,
+    "paginas": [
+      47
+    ],
+    "pregunta": "What are the main paradigms of knowledge acquisition for AI systems described in the OECD AI classification framework?",
+    "respuesta_esperada": "The main paradigms are: human-encoded knowledge (rules), supervised learning (labelled data), unsupervised learning (unlabelled data), semi-supervised learning (both labelled and unlabelled data), reinforcement learning (exploration and feedback), and hybrid models combining human-encoded and machine-learned knowledge.",
+    "relevant_chunks": [
+      45
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 45,
+    "paginas": [
+      47
+    ],
+    "pregunta": "How are hybrid AI models typically constructed according to the OECD AI classification framework, and what is an example application?",
+    "respuesta_esperada": "Hybrid AI models are constructed by combining human-encoded rule sets with capabilities acquired from data-driven methods like neural networks. An example is self-driving cars, which use human-coded driving rules together with vision systems trained via supervised learning.",
+    "relevant_chunks": [
+      45
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 45,
+    "paginas": [
+      47
+    ],
+    "pregunta": "Discuss the significance of the source of knowledge acquisition (human-encoded vs. machine-learned) in the context of AI system design, as described by the OECD framework.",
+    "respuesta_esperada": "The source of knowledge acquisition influences the transparency, interpretability, and adaptability of AI systems. Human-encoded knowledge is more understandable but less adaptable, while machine-learned knowledge is more flexible but may be less transparent. Hybrid approaches balance these aspects for complex applications.",
+    "relevant_chunks": [
+      45
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 133,
+    "paginas": [],
+    "pregunta": "What mechanisms are recommended in the AI HLEG Ethics Guidelines for ensuring privacy and data protection in AI systems?",
+    "respuesta_esperada": "The guidelines recommend establishing mechanisms for others to flag privacy or data protection issues, assessing data types and scope, minimizing use of sensitive data, providing notice and control over personal data (such as valid consent and revocation), enhancing privacy via encryption, anonymization, and aggregation, and involving a Data Privacy Officer at an early stage if available.",
+    "relevant_chunks": [
+      133
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 133,
+    "paginas": [],
+    "pregunta": "How do the AI HLEG Ethics Guidelines recommend ensuring the quality and integrity of data used in AI systems?",
+    "respuesta_esperada": "The guidelines suggest aligning with relevant standards (e.g., ISO, IEEE), establishing oversight mechanisms for data collection, storage, processing, and use, controlling the quality of external data sources, implementing processes to ensure data quality and integrity, and verifying that datasets have not been compromised.",
+    "relevant_chunks": [
+      133
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 133,
+    "paginas": [],
+    "pregunta": "Discuss the importance of documenting and operationalising processes for reliability, privacy, and data governance in AI systems, as outlined by the AI HLEG Ethics Guidelines.",
+    "respuesta_esperada": "Documenting and operationalising processes ensures that AI systems are reliable, privacy-respecting, and governed by robust data practices. This builds user trust, facilitates verification and oversight, and helps address failures or breaches efficiently by having clear protocols and communication mechanisms in place.",
+    "relevant_chunks": [
+      133
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 88,
+    "paginas": [],
+    "pregunta": "What are the three components required to achieve Trustworthy AI according to the AI HLEG Ethics Guidelines?",
+    "respuesta_esperada": "The three components are lawfulness (complying with all applicable laws and regulations), ethics (adhering to ethical principles and values), and robustness (both technical and social robustness to prevent unintentional harm).",
+    "relevant_chunks": [
+      88
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 88,
+    "paginas": [],
+    "pregunta": "Why do the AI HLEG Ethics Guidelines argue for a global framework for Trustworthy AI?",
+    "respuesta_esperada": "Because AI systems' use and impact go beyond national borders, global solutions and international consensus are needed to address global opportunities and challenges and uphold fundamental rights worldwide.",
+    "relevant_chunks": [
+      88
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 88,
+    "paginas": [],
+    "pregunta": "Discuss how the AI HLEG Ethics Guidelines propose balancing lawfulness, ethics, and robustness in the pursuit of Trustworthy AI, and the potential tensions between these components.",
+    "respuesta_esperada": "The guidelines recommend pursuing all three components in harmony, acknowledging that tensions may arise (e.g., legal frameworks may lag behind ethical norms). Collective responsibility is emphasized to ensure lawfulness, ethical alignment, and robustness, which together underpin responsible and sustainable AI innovation.",
+    "relevant_chunks": [
+      88
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 90,
+    "paginas": [],
+    "pregunta": "According to the AI HLEG Ethics Guidelines, on what legal sources is the framework for Trustworthy AI based?",
+    "respuesta_esperada": "The framework is based on fundamental rights enshrined in the Charter of Fundamental Rights of the European Union, relevant international human rights law, EU primary and secondary law, UN treaties, Council of Europe conventions, and relevant Member State laws.",
+    "relevant_chunks": [
+      90
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 90,
+    "paginas": [],
+    "pregunta": "How do the AI HLEG Ethics Guidelines describe the function of the law in achieving Trustworthy AI?",
+    "respuesta_esperada": "The law provides both positive and negative obligations, meaning it specifies what cannot be done and also what should or may be done, thereby guiding the development, deployment, and use of AI systems.",
+    "relevant_chunks": [
+      90
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 90,
+    "paginas": [],
+    "pregunta": "Discuss the interaction between general legal frameworks and domain-specific rules in the regulation of AI systems as outlined in the AI HLEG Ethics Guidelines.",
+    "respuesta_esperada": "AI systems are governed by both general legal frameworks (like the EU Charter, GDPR, anti-discrimination laws) and domain-specific rules (such as the Medical Device Regulation in healthcare). This layered approach ensures comprehensive legal oversight for AI across different sectors.",
+    "relevant_chunks": [
+      90
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 57,
+    "paginas": [],
+    "pregunta": "What are the three levels of action autonomy described in the OECD AI classification framework and how do they differ?",
+    "respuesta_esperada": "The three levels are: low-action autonomy ('human-in-the-loop', where the system acts only if a human agrees), medium-action autonomy ('human-on-the-loop', where the system acts unless a human vetoes), and high-action autonomy ('human-out-of-the-loop', where the system acts without human involvement).",
+    "relevant_chunks": [
+      57
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 57,
+    "paginas": [],
+    "pregunta": "Why do high-action autonomy AI systems raise important policy considerations according to the OECD AI classification framework?",
+    "respuesta_esperada": "Because when deployed in critical functions or contexts, they may put human rights or fundamental values at risk, requiring careful consideration of transparency and accountability.",
+    "relevant_chunks": [
+      57
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 57,
+    "paginas": [],
+    "pregunta": "Discuss the relationship between human involvement in AI system operation and the principles of transparency and accountability as described by the OECD framework.",
+    "respuesta_esperada": "Systems where users contribute to training or validation raise issues of transparency (users need to understand and monitor outputs) and accountability (clear responsibility for decisions and outcomes), especially as autonomy increases.",
+    "relevant_chunks": [
+      57
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 119,
+    "paginas": [
+      23
+    ],
+    "pregunta": "What is the purpose of translating Trustworthy AI requirements into procedures or constraints on AI system architecture according to the AI HLEG Ethics Guidelines?",
+    "respuesta_esperada": "The purpose is to ensure that requirements for Trustworthy AI are effectively implemented and maintained, using methods such as white lists, black lists, and provable guarantees regarding system behavior.",
+    "relevant_chunks": [
+      119
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 119,
+    "paginas": [
+      23
+    ],
+    "pregunta": "How can architectures for Trustworthy AI use technical methods to enforce ethical requirements during system operation?",
+    "respuesta_esperada": "By incorporating procedures or constraints (like white list and black list rules) into the system architecture, and using monitoring processes to check compliance with these requirements during operation.",
+    "relevant_chunks": [
+      119
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 119,
+    "paginas": [
+      23
+    ],
+    "pregunta": "Discuss the challenges and importance of implementing technical methods for Trustworthy AI in systems with dynamic learning capabilities as outlined in the AI HLEG Ethics Guidelines.",
+    "respuesta_esperada": "AI systems with dynamic learning may show non-deterministic or unexpected behaviors, making it challenging to guarantee compliance with ethical requirements. Thus, robust technical methods, including architectures with built-in constraints and ongoing monitoring, are crucial to mitigate risks and ensure trustworthy operation.",
+    "relevant_chunks": [
+      119
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 56,
+    "paginas": [
+      53
+    ],
+    "pregunta": "Why does AI content generation have important policy implications according to the OECD AI classification framework?",
+    "respuesta_esperada": "Because realistic AI-generated content can be confused with real content, raising issues for human rights and democratic values, and amplifying the need for transparency, stakeholder awareness, and the ability to challenge AI outputs. It also raises intellectual property questions about inventions and creative works.",
+    "relevant_chunks": [
+      56
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 56,
+    "paginas": [
+      53
+    ],
+    "pregunta": "How does the OECD framework describe the relationship between action autonomy in AI systems and the role of human or machine actuators?",
+    "respuesta_esperada": "The level of action autonomy depends on how the system's outcomes are used by a human or machine actuator to perform actions that influence the environment, determining the degree to which the system can act independently of human involvement.",
+    "relevant_chunks": [
+      56
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 56,
+    "paginas": [
+      53
+    ],
+    "pregunta": "Discuss the implications of increased AI system autonomy for human safety and accountability as highlighted in the OECD framework.",
+    "respuesta_esperada": "Increased AI autonomy heightens the need for clear safety and accountability measures because autonomous and control systems can directly impact human safety. As AI acts with less human oversight, it becomes more critical to ensure transparency, explainability, and mechanisms for holding systems accountable for their actions.",
+    "relevant_chunks": [
+      56
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 102,
+    "paginas": [
+      15
+    ],
+    "pregunta": "What are the two main dimensions of fairness in AI as described in the AI HLEG Ethics Guidelines?",
+    "respuesta_esperada": "The two dimensions are substantive fairness, which involves equal and just distribution of benefits and costs and protection from unfair bias and discrimination, and procedural fairness, which includes the ability to contest decisions and seek redress.",
+    "relevant_chunks": [
+      102
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 102,
+    "paginas": [
+      15
+    ],
+    "pregunta": "How is fairness in AI systems linked to human rights according to the AI HLEG Ethics Guidelines?",
+    "respuesta_esperada": "Fairness is linked to the rights to non-discrimination, solidarity, and justice, as reflected in Articles 21 and following of the Charter of Fundamental Rights of the EU.",
+    "relevant_chunks": [
+      102
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 102,
+    "paginas": [
+      15
+    ],
+    "pregunta": "Discuss the importance of proportionality and the avoidance of bias in achieving fairness in AI systems, as outlined in the AI HLEG Ethics Guidelines.",
+    "respuesta_esperada": "Proportionality ensures that means are appropriate to the ends, balancing competing interests and objectives, while avoiding unfair bias or discrimination is essential to achieving substantive fairness and preventing societal harms.",
+    "relevant_chunks": [
+      102
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 183,
+    "paginas": [
+      33
+    ],
+    "pregunta": "What are the three elements of the Framework Core in the NIST Privacy Framework?",
+    "respuesta_esperada": "The three elements are Functions, Categories, and Subcategories.",
+    "relevant_chunks": [
+      183
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 183,
+    "paginas": [
+      33
+    ],
+    "pregunta": "According to the NIST Privacy Framework, what is meant by 'data action'?",
+    "respuesta_esperada": "'Data action' refers to a system, product, or service data life cycle operation, including collection, retention, logging, generation, transformation, use, disclosure, sharing, transmission, and disposal.",
+    "relevant_chunks": [
+      183
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 183,
+    "paginas": [
+      33
+    ],
+    "pregunta": "Explain the concept of 'disassociability' as defined in the NIST Privacy Framework and its significance in privacy protection.",
+    "respuesta_esperada": "Disassociability means enabling the processing of data or events without association to individuals or devices beyond operational requirements. This principle is significant for privacy protection, as it minimizes the risk of re-identification and limits unnecessary linkages to personal identities.",
+    "relevant_chunks": [
+      183
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 80,
+    "paginas": [],
+    "pregunta": "What is the main objective of the OECD Experts Working Group's next phase of work regarding AI risk frameworks?",
+    "respuesta_esperada": "The main objective is to produce an actionable AI system risk methodology that builds on the current classification framework and coordinates with other organizations to address interdependent risk criteria.",
+    "relevant_chunks": [
+      80
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 80,
+    "paginas": [],
+    "pregunta": "How does the OECD approach to AI risk assessment relate to existing risk assessment frameworks?",
+    "respuesta_esperada": "The OECD approach is complementary to established frameworks for functional and product safety, digital security, and quality management systems, but places special focus on ethical and societal risks.",
+    "relevant_chunks": [
+      80
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_ai_classification_framework.pdf",
+    "chunk_id": 80,
+    "paginas": [],
+    "pregunta": "Discuss the significance of international coordination and interoperability in developing AI risk frameworks as highlighted by the OECD Experts Working Group.",
+    "respuesta_esperada": "International coordination and interoperability are significant because they promote consistency across technical, policy, and governance frameworks, enhance global trust in AI systems, and ensure that risk assessments are robust and widely applicable.",
+    "relevant_chunks": [
+      80
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 188,
+    "paginas": [],
+    "pregunta": "What is the purpose of system design artifacts such as data flow diagrams in privacy risk management according to the NIST Privacy Framework?",
+    "respuesta_esperada": "System design artifacts like data flow diagrams help organizations understand how systems, products, and services operate, enabling privacy programs to identify where controls should be implemented to mitigate privacy risks while maintaining functionality.",
+    "relevant_chunks": [
+      188
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 188,
+    "paginas": [],
+    "pregunta": "How do data maps contribute to privacy risk assessment as described in the NIST Privacy Framework?",
+    "respuesta_esperada": "Data maps illustrate data processing environments, showing components, data actions, and interactions. They help organizations visualize and communicate data flows, supporting effective privacy risk assessment and the identification of areas where privacy controls are needed.",
+    "relevant_chunks": [
+      188
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 188,
+    "paginas": [],
+    "pregunta": "Discuss the use and importance of privacy engineering objectives for determining privacy capabilities in systems, products, or services as outlined in the NIST Privacy Framework.",
+    "respuesta_esperada": "Privacy engineering objectives guide the prioritization and implementation of features that achieve desired privacy outcomes, such as data minimization. They complement security objectives and help organizations design systems with both privacy and functionality in mind.",
+    "relevant_chunks": [
+      188
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 188,
+    "paginas": [],
+    "pregunta": "What is the purpose of system design artifacts such as data flow diagrams in privacy risk management according to the NIST Privacy Framework?",
+    "respuesta_esperada": "System design artifacts like data flow diagrams help organizations understand how systems, products, and services operate, enabling privacy programs to identify where controls should be implemented to mitigate privacy risks while maintaining functionality.",
+    "relevant_chunks": [
+      188
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 188,
+    "paginas": [],
+    "pregunta": "How do data maps contribute to privacy risk assessment as described in the NIST Privacy Framework?",
+    "respuesta_esperada": "Data maps illustrate data processing environments, showing components, data actions, and interactions. They help organizations visualize and communicate data flows, supporting effective privacy risk assessment and the identification of areas where privacy controls are needed.",
+    "relevant_chunks": [
+      188
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 188,
+    "paginas": [],
+    "pregunta": "Discuss the use and importance of privacy engineering objectives for determining privacy capabilities in systems, products, or services as outlined in the NIST Privacy Framework.",
+    "respuesta_esperada": "Privacy engineering objectives guide the prioritization and implementation of features that achieve desired privacy outcomes, such as data minimization. They complement security objectives and help organizations design systems with both privacy and functionality in mind.",
+    "relevant_chunks": [
+      188
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 164,
+    "paginas": [
+      15
+    ],
+    "pregunta": "How does the NIST Privacy Framework facilitate accountability within organizations?",
+    "respuesta_esperada": "It provides a structure for reporting on privacy posture, risk changes, implementation progress, incident management, and gaps, enabling better understanding and response at all organizational levels through communication and collaboration.",
+    "relevant_chunks": [
+      164
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 164,
+    "paginas": [
+      15
+    ],
+    "pregunta": "What are the key phases for establishing or improving a privacy program as outlined in the NIST Privacy Framework?",
+    "respuesta_esperada": "The phases are 'ready', 'set', and 'go'. Organizations get ready by reviewing categories and subcategories, set an action plan based on their current and target profiles, and go forward with implementing the action plan.",
+    "relevant_chunks": [
+      164
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 164,
+    "paginas": [
+      15
+    ],
+    "pregunta": "Discuss the importance of understanding an organization's mission, legal environment, and risk tolerance in effective privacy risk management as described by the NIST Privacy Framework.",
+    "respuesta_esperada": "Understanding these factors is essential for tailoring privacy risk management to the organization's unique context, ensuring that privacy controls and policies are relevant, effective, and aligned with organizational objectives and external obligations.",
+    "relevant_chunks": [
+      164
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 218,
+    "paginas": [],
+    "pregunta": "What information must AI providers supply to the central database according to the EU AI Act?",
+    "respuesta_esperada": "AI providers must supply meaningful information about their systems and the conformity assessment carried out. They are also required to inform national competent authorities about serious incidents or malfunctions breaching fundamental rights, as well as any recalls or withdrawals of AI systems.",
+    "relevant_chunks": [
+      218
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 218,
+    "paginas": [],
+    "pregunta": "How does the EU AI Act ensure that its scope and definitions remain relevant as AI technology evolves?",
+    "respuesta_esperada": "The Act includes a technology-neutral and future-proof definition of AI systems, with the possibility for the Commission to adapt the detailed list of approaches and techniques in Annex I to keep pace with technological developments.",
+    "relevant_chunks": [
+      218
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "eu_ai_act_regulation.pdf",
+    "chunk_id": 218,
+    "paginas": [],
+    "pregunta": "Discuss the significance of defining key participants across the AI value chain in the EU AI Act.",
+    "respuesta_esperada": "Defining key participants, such as providers and users (both public and private), ensures legal certainty and a level playing field, clarifying responsibilities and obligations throughout the AI ecosystem.",
+    "relevant_chunks": [
+      218
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 195,
+    "paginas": [],
+    "pregunta": "How does the NIST Privacy Framework define the role of dedicated privacy personnel in an organization?",
+    "respuesta_esperada": "Dedicated privacy personnel are responsible for possessing the necessary knowledge and skills to perform their roles, and all personnel receive regular, up-to-date privacy training.",
+    "relevant_chunks": [
+      195
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 195,
+    "paginas": [],
+    "pregunta": "What characterizes Tier 4: Adaptive Privacy Risk Management Process in the NIST Privacy Framework?",
+    "respuesta_esperada": "Tier 4 is characterized by continuous improvement, adaptation based on lessons learned and new risks, the use of advanced privacy technologies, and a proactive, organization-wide approach to privacy risk management that evolves with policy and technology changes.",
+    "relevant_chunks": [
+      195
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 195,
+    "paginas": [],
+    "pregunta": "Discuss the integration of privacy risk management with organizational objectives and culture as described in the NIST Privacy Framework.",
+    "respuesta_esperada": "Privacy risk management is integrated organization-wide, informing policies and procedures and aligning with business objectives and risk tolerance. It is monitored by senior executives alongside other risks, becomes part of the organizational culture, and is shaped by ongoing lessons learned.",
+    "relevant_chunks": [
+      195
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 162,
+    "paginas": [
+      14
+    ],
+    "pregunta": "How can organizations use the five Functions of the NIST Privacy Framework to analyze privacy risk management gaps?",
+    "respuesta_esperada": "Organizations can use the five Functions as a streamlined way to identify and articulate gaps in their privacy risk management processes, helping to structure analysis and prioritize improvements.",
+    "relevant_chunks": [
+      162
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 162,
+    "paginas": [
+      14
+    ],
+    "pregunta": "What are informative references in the context of the NIST Privacy Framework, and how do they support privacy program implementation?",
+    "respuesta_esperada": "Informative references are mappings to subcategories that provide implementation support, including connections to tools, technical guidance, standards, laws, and best practices, helping organizations prioritize actions and comply with various requirements.",
+    "relevant_chunks": [
+      162
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "nist_privacy_framework_v1.pdf",
+    "chunk_id": 162,
+    "paginas": [
+      14
+    ],
+    "pregunta": "Discuss the benefits of using consensus-based standards and informative references when implementing the NIST Privacy Framework in a global context.",
+    "respuesta_esperada": "Using consensus-based standards and informative references enables organizations to scale privacy solutions across borders, support technological innovation, and address the global nature of privacy risks by aligning with recognized best practices and accommodating evolving business needs.",
+    "relevant_chunks": [
+      162
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 90,
+    "paginas": [],
+    "pregunta": "What are the three components of Trustworthy AI according to the AI HLEG Ethics Guidelines?",
+    "respuesta_esperada": "The three components are: Lawful AI, Ethical AI, and Robust AI.",
+    "relevant_chunks": [
+      90
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 90,
+    "paginas": [],
+    "pregunta": "Which legal sources are relevant for the development, deployment, and use of AI systems as outlined in the AI HLEG Ethics Guidelines?",
+    "respuesta_esperada": "Relevant legal sources include EU primary law, EU secondary law such as the GDPR, Product Liability Directive, Regulation on the Free Flow of Non-Personal Data, anti-discrimination directives, consumer law, Safety and Health at Work Directives, UN Human Rights treaties, Council of Europe conventions, and national laws of EU Member States.",
+    "relevant_chunks": [
+      90
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "ai_hleg_ethics_guidelines.pdf",
+    "chunk_id": 90,
+    "paginas": [],
+    "pregunta": "Discuss the dual role of law in Trustworthy AI as described in the AI HLEG Ethics Guidelines.",
+    "respuesta_esperada": "The law plays a dual role by providing both positive obligations (what should and may be done) and negative obligations (what cannot be done), thus not only prohibiting certain actions but also enabling others in the context of AI.",
+    "relevant_chunks": [
+      90
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_legal_0449_en.pdf",
+    "chunk_id": 355,
+    "paginas": [
+      9
+    ],
+    "pregunta": "What is a key role of governments in fostering a digital ecosystem for trustworthy AI according to the OECD recommendations?",
+    "respuesta_esperada": "Governments should foster the development of digital technologies, infrastructure, and mechanisms for sharing AI knowledge, such as data trusts, to support safe, fair, legal, and ethical data sharing.",
+    "relevant_chunks": [
+      355
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_legal_0449_en.pdf",
+    "chunk_id": 355,
+    "paginas": [
+      9
+    ],
+    "pregunta": "How are governments encouraged to shape a policy environment for trustworthy AI in the OECD recommendations?",
+    "respuesta_esperada": "Governments are encouraged to use experimentation to provide controlled environments for testing AI, and to review and adapt policy and regulatory frameworks to encourage innovation and competition.",
+    "relevant_chunks": [
+      355
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_legal_0449_en.pdf",
+    "chunk_id": 355,
+    "paginas": [
+      9
+    ],
+    "pregunta": "Discuss the steps recommended by the OECD for governments to support workers during the AI-driven transformation of the labour market.",
+    "respuesta_esperada": "OECD recommends that governments prepare for labour market transformation by empowering people with skills to use AI, ensuring fair transition through training and support, promoting responsible AI use at work, enhancing worker safety and job quality, and fostering entrepreneurship and access to new opportunities.",
+    "relevant_chunks": [
+      355
+    ],
+    "dificultad": "hard"
+  },
+  {
+    "pdf": "oecd_legal_0449_en.pdf",
+    "chunk_id": 346,
+    "paginas": [
+      3
+    ],
+    "pregunta": "What are the five values-based principles for trustworthy AI set out in the OECD Recommendation on Artificial Intelligence?",
+    "respuesta_esperada": "The five principles are: inclusive growth, sustainable development and well-being; human-centred values and fairness; transparency and explainability; robustness, security and safety; and accountability.",
+    "relevant_chunks": [
+      346
+    ],
+    "dificultad": "easy"
+  },
+  {
+    "pdf": "oecd_legal_0449_en.pdf",
+    "chunk_id": 346,
+    "paginas": [
+      3
+    ],
+    "pregunta": "What are the main areas of policy recommendations for trustworthy AI in the OECD Recommendation?",
+    "respuesta_esperada": "The main areas are: investing in AI research and development; fostering a digital ecosystem for AI; shaping an enabling policy environment; building human capacity and preparing for labour market transformation; and international cooperation for trustworthy AI.",
+    "relevant_chunks": [
+      346
+    ],
+    "dificultad": "medium"
+  },
+  {
+    "pdf": "oecd_legal_0449_en.pdf",
+    "chunk_id": 346,
+    "paginas": [
+      3
+    ],
+    "pregunta": "Discuss the purpose and scope of the OECD Recommendation on Artificial Intelligence adopted in 2019.",
+    "respuesta_esperada": "The Recommendation aims to foster innovation and trust in AI by promoting responsible stewardship and ensuring respect for human rights and democratic values. It sets flexible standards focused on AI-specific issues, provides value-based principles, and policy recommendations, and includes provisions for developing metrics and an evidence base to assess progress.",
+    "relevant_chunks": [
+      346
+    ],
+    "dificultad": "hard"
+  }
+]
