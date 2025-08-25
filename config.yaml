@@ -1,1 +1,19 @@
+paths:
+  chunks: data/chunks
+  embeddings: data/embeddings
+  faiss: data/faiss_index
+  bm25: data/bm25
+  metadata: data/metadata
+  results: results
 
+models:
+  minilm: sentence-transformers/all-MiniLM-L6-v2
+  mpnet: sentence-transformers/all-mpnet-base-v2
+
+embedding:
+  batch_size: 32
+  normalize: true
+  device: cpu   # usa "cuda" si quieres GPU
+
+chunking:
+  size: 300
