@@ -1,0 +1,1 @@
+["bm25_score", "cosine_qc", "hybrid_score", "rank", "gap_top1_top2", "lexical_overlap", "tokens_count_q", "tokens_count_c"]
